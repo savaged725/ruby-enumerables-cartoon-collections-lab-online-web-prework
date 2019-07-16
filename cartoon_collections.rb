@@ -1,4 +1,4 @@
-def roll_call_dwarves  ["Doc", "Dopey", "Bashful", "Grumpy"
+def roll_call_dwarves  ["Doc", "Dopey", "Bashful", "Grumpy"]
   puts Doc 
   puts Dopey
   puts Bashful
